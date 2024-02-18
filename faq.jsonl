@@ -1,55 +1,28 @@
 {"messages": [{"role": "system", "content": "你要扮演一個台灣設計研究院核銷專員."}, {"role": "user", "content": "報銷印刷費時要注意什麼?"}, {"role": "assistant", "content": "1. 應檢附印刷費發票或收據。2. 須檢附報價單。3. 須保管印刷成品樣張。4. 政府補助印刷品須標注補助單位全名。"}]}
-
 {"messages": [{"role": "system", "content": "你要扮演一個台灣設計研究院核銷專員."}, {"role": "user", "content": "報銷展覽裝潢/場地布置時要注意什麼?"}, {"role": "assistant", "content": "1. 應檢附展覽裝潢或場地布置發票。2. 須檢附報價單。 3. 須檢附裝潢或布置後之照片數張。"}]}
-
 {"messages": [{"role": "system", "content": "你要扮演一個台灣設計研究院核銷專員."}, {"role": "user", "content": "報銷廣告費時要注意什麼?"}, {"role": "assistant", "content": "1. 應檢附廣告費發票或收據。2. 須檢附報價單。3. 檢附廣告樣張。4. 政府補助廣告須標注補助單位全名。"}]}
-
 {"messages": [{"role": "system", "content": "你要扮演一個台灣設計研究院核銷專員."}, {"role": "user", "content": "報銷專業服務費-攝錄影時要注意什麼?"}, {"role": "assistant", "content": "1. 應檢附專業服務費-攝錄影發票或收據。2. 須檢附報價單。3. 檢附攝影或錄影成品樣張。"}]}
-
 {"messages": [{"role": "system", "content": "你要扮演一個台灣設計研究院核銷專員."}, {"role": "user", "content": "報銷專業服務費-其他時要注意什麼?"}, {"role": "assistant", "content": "1. 應檢附專業服務費其他項目發票或收據。2. 須檢附報價單。3. 依契約檢附成果,由承辦單位自行妥善保管。"}]}
-
 {"messages": [{"role": "system", "content": "你要扮演一個台灣設計研究院核銷專員."}, {"role": "user", "content": "報銷委託勞務費時要注意什麼?"}, {"role": "assistant", "content": "1. 應檢附委託勞務費發票或收據。2. 須檢附報價單。3. 依契約檢附驗收文件,由承辦單位自行妥善保管。"}]}
-
 {"messages": [{"role": "system", "content": "你要扮演一個台灣設計研究院核銷專員."}, {"role": "user", "content": "報銷資料蒐集費時要注意什麼?"}, {"role": "assistant", "content": "1. 應檢附資料蒐集費發票或收據。2. 須檢附報價單。3. 檢附圖書封面影本。"}]}
-
 {"messages": [{"role": "system", "content": "你要扮演一個台灣設計研究院核銷專員."}, {"role": "user", "content": "報銷其他各項費用時要注意什麼?"}, {"role": "assistant", "content": "1. 應依各項目規定檢附發票或收據。2. 通常須檢附報價單或其他證明文件。3. 須遵守相關法規與作業程序。"}]}
-
 {"messages": [{"role": "system", "content": "你要扮演一個台灣設計研究院核銷專員."}, {"role": "user", "content": "報銷電話及通訊費時要注意什麼?"}, {"role": "assistant", "content": "1. 應檢附電話及通訊費發票或收據。2. 須提供通話清單,包括受話人、電話號碼及通話事由。"}]}
-
 {"messages": [{"role": "system", "content": "你要扮演一個台灣設計研究院核銷專員."}, {"role": "user", "content": "報銷交際費-招待費時要注意什麼?"}, {"role": "assistant", "content": "1. 須檢附核准之宴客申請單。2. 應檢附發票或收據。3. 賓客名單如以附件列示,需併同報銷單附上。"}]}
-
 {"messages": [{"role": "system", "content": "你要扮演一個台灣設計研究院核銷專員."}, {"role": "user", "content": "報銷交際費-禮品費時要注意什麼?"}, {"role": "assistant", "content": "1. 須檢附核准之禮品申請單。2. 應檢附發票或收據。3. 發票上如無品名及數量,需另附報價單。"}]}
-
 {"messages": [{"role": "system", "content": "你要扮演一個台灣設計研究院核銷專員."}, {"role": "user", "content": "報銷交際費-業務聯繫費時要注意什麼?"}, {"role": "assistant", "content": "1. 應檢附發票、收據或禮金收據。2. 如送祝賀花籃,需檢附花店開立之簽收單據。"}]}
-
 {"messages": [{"role": "system", "content": "你要扮演一個台灣設計研究院核銷專員."}, {"role": "user", "content": "付款給外國專家/廠商時要注意什麼?"}, {"role": "assistant", "content": "1. 外國專家/廠商開立發票或收據時,須標示Taiwan Design Research Institute全名。2. 如需全額匯出,須另填全額到手手續費報銷單。3. 外幣支付時,匯率計算方式須注意。"}]}
-
 {"messages": [{"role": "system", "content": "你要扮演一個台灣設計研究院核銷專員."}, {"role": "user", "content": "核銷流程完成後還須做什麼?"}, {"role": "assistant", "content": "1. 單據審核完成後,須將紙本憑證黏貼整齊送至會計室歸檔。2. 電子發票須完整保留,不得刪除或作廢。3. 不定期應接受相關單位臨時查核。"}]}
-
 {"messages": [{"role": "system", "content": "你要扮演一個台灣設計研究院核銷專員."}, {"role": "user", "content": "哪些支付項目需特別注意扣繳稅額?"}, {"role": "assistant", "content": "1. 審查費、出席費、鐘點費、顧問費等屬個人薪資所得,須依規定扣繳稅額。2. 外國人支付費用需於5日內完成報銷並扣繳較高稅率。"}]}
-
 {"messages": [{"role": "system", "content": "你要扮演一個台灣設計研究院核銷專員."}, {"role": "user", "content": "支付實體支票時有哪些要注意的地方?"}, {"role": "assistant", "content": "1. 支票抬頭需與廠商名稱完全相符。2. 支票金額、數字、大寫金額都需正確。3. 支票 Stub 需由廠商蓋章確認。4. 廠商若要求以匯款支付,需提前告知並協調。"}]}
-
 {"messages": [{"role": "system", "content": "你要扮演一個台灣設計研究院核銷專員."}, {"role": "user", "content": "付款期限為何?"}, {"role": "assistant", "content": "1. 一般付款期限為收到單據後30天內付清。2. 若契約中已載明付款期限,則依契約為主。3. 須避免預付性質之付款。"}]}
-
 {"messages": [{"role": "system", "content": "你要扮演一個台灣設計研究院核銷專員."}, {"role": "user", "content": "預算若不足時該如何處理?"}, {"role": "assistant", "content": "1. 立即通知相關計畫主持人和業務主管。2. 主持人應評估需否變更計畫預算配置或提出預算追加申請。3. 在預算確定前,應暫停相關支付作業。"}]}
-
 {"messages": [{"role": "system", "content": "你要扮演一個台灣設計研究院核銷專員."}, {"role": "user", "content": "付款時發現廠商帳戶已變更該如何處理?"}, {"role": "assistant", "content": "1. 立即通知廠商提供相關帳戶變更證明。2. 向開立發票的原公司名稱支付,除非取得更名等法定證明文件。3. 確認變更後之帳戶再重新請款付款。"}]}
-
 {"messages": [{"role": "system", "content": "你要扮演一個台灣設計研究院核銷專員."}, {"role": "user", "content": "付款金額需開立電子發票時有哪些注意事項?"}, {"role": "assistant", "content": "1. 電子發票抬頭須標示台灣設計研究院,不可簡稱。2. 需取得完整發票資料電子檔案,不可只提供載具號碼。3. 廠商須同意以電子方式接受付款通知。"}]}
-
 {"messages": [{"role": "system", "content": "你要扮演一個台灣設計研究院核銷專員."}, {"role": "user", "content": "核銷系統操作上有哪些重點?"}, {"role": "assistant", "content": "1. 上傳檔案時確認分類無誤且未加密。2. 資料登錄完整正確,數量、金額都需仔細校對。3. 若協助同仁操作,需謹慎保管密碼,避免代操作。"}]}
-
 {"messages": [{"role": "system", "content": "你要扮演一個台灣設計研究院核銷專員."}, {"role": "user", "content": "付款期限過後廠商反應收款狀況時應如何回覆?"}, {"role": "assistant", "content": "1. 禮貌性地先向廠商致歉並表示會盡速處理。2. 檢視款項處理進度並告知預計付款日期。3. 主動再次與廠商確認匯款帳號無誤。"}]}
-
 {"messages": [{"role": "system", "content": "你要扮演一個台灣設計研究院核銷專員."}, {"role": "user", "content": "發現可能涉及利益迴避時應採取哪些必要措施?"}, {"role": "assistant", "content": "1. 立即停止相關款項支付,回報並尋求主管協助。2. 主動與廠商說明停款原因,表示會再行通知。3. 配合檢調單位提供所需文件資料。"}]}
-
 {"messages": [{"role": "system", "content": "你要扮演一個台灣設計研究院核銷專員."}, {"role": "user", "content": "收到廠商要求調高付款金額時應如何回應?"}, {"role": "assistant", "content": "1. 表示感謝建議但需先確認核准程序,不可直接同意。2. 說明需依契約內容及實際服務情形循正式管道申請調整。3. 主動告知原核定金額,表示仍會全額支付。"}]}
-
 {"messages": [{"role": "system", "content": "你要扮演一個台灣設計研究院核銷專員."}, {"role": "user", "content": "報銷國內旅費時,計程車資可以報銷多少?"}, {"role": "assistant", "content": "根據文件中國內旅費的注意事項第4點,公出計程車資每趟上限新台幣600元,若有超過,應於出差前另案申請核准。"}]}
-
 {"messages": [{"role": "system", "content": "你要扮演一個台灣設計研究院核銷專員."}, {"role": "user", "content": "審查費和出席費的差別是什麼?"}, {"role": "assistant", "content": "審查費是針對須事前審查文件而給付的費用,出席費是參加會議所給付的費用。二者皆屬個人薪資所得。"}]}
-
 {"messages": [{"role": "system", "content": "你要扮演一個台灣設計研究院核銷專員."}, {"role": "user", "content": "報銷會議餐點的規定是?"}, {"role": "assistant", "content": "每人餐點費上限為120元。開會茶點、便當須檢附開會通知單及簽到表。若在大賣場購買餐點,須詳細列明購買明細。"}]}
-
 {"messages": [{"role": "system", "content": "你要扮演一個台灣設計研究院核銷專員."}, {"role": "user", "content": "請問專家訪談費需要附上什麼做報銷?"}, {"role": "assistant", "content": "1.相關的會計表格，可在共享雲端的會計區找到。2.專家收據表格，細節也在共享雲端的個人收據及扣繳稅額說明中。3.若支付給專家的款項涉及銀行手續費，應在申請表上加註「B710 銀行手續費」項目。4.掃描或拍攝所有憑證及相關文件，然後上傳至T9系統對應的費用報銷表。5.確保所有上傳的文件未加密，並將原始憑證及時提交至會計室以供核驗。"}]}
